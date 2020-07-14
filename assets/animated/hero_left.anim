@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hero_left",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d36fe82b-b64e-4b19-9fe2-3b65ce3b15e4"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "e33c64c3-be99-4356-9044-11673609387f"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "f1562ab7-ad1e-469d-bb8b-311820f300c7"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "39fd8cf4-07ab-4c38-9b38-ba94be7ca61d"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "5d3d44de-661c-4301-8c4c-acf3a6df70a5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
